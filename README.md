@@ -1,7 +1,5 @@
 # airbnb-clone-project
 
-1.  Edit the README.md File:Locate the README.md: On your GitHub repository page, you should see the README.md file listed.Edit the File:Click on the README.md file.Click the "Edit" button (it looks like a pencil).2.  Add Content to README.md:Now, this is the crucial part. You need to provide a brief overview of your AirBnB Clone project. Here's a template you can adapt:# AirBnB Clone Project
-
 ## Project Goals
 
 The goal of this project is to create a simplified clone of the AirBnB web application. This will involve building a backend to manage data (users, places, bookings) and a frontend to provide a user interface for interacting with that data.  We aim to learn and apply fundamental web development concepts.
