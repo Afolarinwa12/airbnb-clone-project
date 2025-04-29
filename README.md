@@ -1,15 +1,23 @@
 # airbnb-clone-project
 
-## Project Goals
-
-The goal of this project is to create a simplified clone of the AirBnB web application. This will involve building a backend to manage data (users, places, bookings) and a frontend to provide a user interface for interacting with that data.  We aim to learn and apply fundamental web development concepts.
-
-Specifically, we will:
-
-* Design a database schema to store information about hosts, users, places, and bookings.
-* Develop an API (Application Programming Interface) to manage the creation, retrieval, updating, and deletion of data.
-* Build a command-line interface to interact with the API.
-* Create a basic web interface to allow users to browse places, book stays, and manage their accounts.
+##UI/UX Design Planning
+Design Goals
+Create intuitive booking flow
+Maintain visual consistency
+Ensure fast loading times
+Prioritize mobile responsiveness
+Key Features
+Property search and filtering
+Detailed property viewing
+Secure checkout process
+User authentication
+Primary Pages
+Page	Description
+Property Listing View	Grid display of available properties with filters
+Listing Detailed View	Complete property details with images and booking form
+Simple Checkout View	Streamlined payment and booking confirmation
+Importance of User-Friendly Design
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
 ## Tech Stack
 
